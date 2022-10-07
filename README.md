@@ -18,9 +18,9 @@
 
   <img width="442" alt="VBA_Challenge_2018_2" src="https://user-images.githubusercontent.com/113747210/194675781-e0d97db7-1ede-47c2-9652-bf18501a4e01.png">
 
-  #### The fist picture is the one we created before refactoring the code and the second one can show we did made more efficient our code by running faster so Steve can work with larger amount of data for his research and analysis of the stock market.
+  #### The fist picture is the one we created before refactoring the code and the second one can show we did made more efficient our code by running faster, so Steve can work with larger amount of data for his research and analysis of the stock market.
   
-  ### Summary
+  ## * Summary
   
   ### Advantages and disadvantages of refactoring code in general
   
